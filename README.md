@@ -1,6 +1,6 @@
 # dynamic-file-upload-s3-todynamo
 Load csv data from s3 to dynamo db based on file name.
-https://github.com/ayan1512/CSV-record-upload-s3-to-dynamo/blob/main/s3-to-dynamo.PNG?raw=true
+![s3 to dynamo](https://github.com/ayan1512/CSV-record-upload-s3-to-dynamo/blob/main/s3-to-dynamo.PNG?raw=true)
 # architecture and setup
 1. Create your S3 bucket
 2. Create the lambda function from the js file in this repo
